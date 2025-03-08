@@ -1,4 +1,4 @@
-# Inflation-Forecasting-TimeSeries-LLM
+# Forecasting the Inflation in UK with Sentiment Analysis, Time Series and LLMs
 
 The project **"UK Inflation Forecasting and Sentiment Analysis"** applies **Natural Language Processing (NLP) techniques** to predict inflation trends in the UK using social media data, particularly tweets.   
 
